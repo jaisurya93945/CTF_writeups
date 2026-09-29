@@ -2,7 +2,7 @@
 # Hack The Box — Layover
 
 <p align="center">
-  <img src="images/layover.png" width="850">
+  <img src="../images/layover.png" width="850">
 </p>
 
 <p align="center">
