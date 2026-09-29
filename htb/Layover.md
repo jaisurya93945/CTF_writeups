@@ -1,4 +1,4 @@
-````text
+
 # Hack The Box — Layover
 
 <p align="center">
@@ -15,8 +15,6 @@
   <a href="https://www.linkedin.com/in/badathala-jaisurya/">LinkedIn</a> •
   <a href="https://labs.hackthebox.com/achievement/machine/1830127/984">HTB Achievement</a>
 </p>
-
----
 
 ## Overview
 
