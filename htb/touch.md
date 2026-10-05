@@ -1,6 +1,6 @@
 # HTB Touch --- Windows Machine Writeup
 
-![HTB Touch](../images/touch.jpg)
+![HTB Touch](../images/touch.png)
 
 > **Platform:** Hack The Box\
 > **Machine:** Touch\
